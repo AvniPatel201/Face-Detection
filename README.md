@@ -3,9 +3,9 @@ To do:
 1. Implement Additional Face Detection Methods
   Implement SIFT/ORB for face detection: Use feature-based methods like SIFT or ORB to detect key points in faces.
 
-  Implement DNN-based face detection: Use OpenCV’s cv2.dnn module or a pre-trained deep learning model (e.g., OpenCV's DNN face           detector or a lightweight model like SSD or YOLO).
+    Implement DNN-based face detection: Use OpenCV’s cv2.dnn module or a pre-trained deep learning model (e.g., OpenCV's DNN face           detector or a lightweight model like SSD or YOLO).
   
-2. Performance Evaluation
+3. Performance Evaluation
    You need to compare and evaluate the performance of the implemented face detection and emotion recognition methods.
 
     Tasks:
